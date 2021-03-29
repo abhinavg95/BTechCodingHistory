@@ -25,3 +25,5 @@ Let's see how the print function is written -
 
 Without the C language , most of the modern languages wouldn't have existed.
 It's high time we appreciate it's importance.
+
+When C++ comes into play, scary syntax like printf and scanf are replaced by cin or cout. Coding becomes easier.
