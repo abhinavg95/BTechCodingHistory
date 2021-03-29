@@ -35,3 +35,5 @@ When starting one's coding journey, the first program we write is "Hello World".
 Hello World in C -> printf("Hello World");
 Hello World in C++ -> cout << "Hello World";
 
+The difference in syntax really tells us how C++ is a major improvement over C.
+
