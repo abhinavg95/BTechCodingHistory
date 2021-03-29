@@ -1,1 +1,2 @@
 C is the coding language primarily taught to first years.
+Since some first years might find the syntax of the C language to be a little difficult, python may also be chosen as the primary language.
