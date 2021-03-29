@@ -16,3 +16,4 @@ OOPS is a concept that comes into play when we move from C to C++ and JAVA.
 
 OOPS stands for Object Oriented Programming.
 
+Let's look at the simplicity of Python
