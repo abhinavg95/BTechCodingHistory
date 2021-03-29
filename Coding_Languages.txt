@@ -30,5 +30,8 @@ Students in the beginning atleast are afraid of the C language, because the synt
 
 When C++ comes into play, scary syntax like printf and scanf are replaced by cin or cout. Coding becomes easier.
 
+When starting one's coding journey, the first program we write is "Hello World". Whenever starting a new language, write the Hello World program and see your confidence. 
+
 Hello World in C -> printf("Hello World");
 Hello World in C++ -> cout << "Hello World";
+
