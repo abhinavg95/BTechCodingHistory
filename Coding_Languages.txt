@@ -17,3 +17,9 @@ OOPS is a concept that comes into play when we move from C to C++ and JAVA.
 OOPS stands for Object Oriented Programming.
 
 Let's look at the simplicity of Python
+Let's see how the print function is written -
+1. C - printf("Hello World\n");
+2. C++ - cout << "Hello World" << endl;
+3. Python - print("Hello World") 
+4. JAVA - System.out.println("Hello World");
+
